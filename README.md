@@ -1,2 +1,2 @@
 # Natural language processing (NLP)
-## Tweeter Sentimental Analysis
+## Twitter Sentimental Analysis
